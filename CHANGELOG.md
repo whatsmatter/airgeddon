@@ -1,9 +1,9 @@
 ### 9.10
  - Mdk3 replaced by Mdk4
- - Fixed some minor bugs on Enterprise plain text captured password process
+ - Fixed some minor bugs on enterprise plain text captured password process
  
 ### 9.01
- - Improvments on options environment var system
+ - Improvements on options environment var system
  - Minor fixes for ARM devices
  - Fixed iptables (nf_tables) problem
 
